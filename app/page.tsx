@@ -1,0 +1,16 @@
+app/
+  api/
+    ask/route.ts
+  layout.tsx
+  page.tsx
+  globals.css
+public/
+  icon.svg
+.env.example
+tailwind.config.ts
+next.config.mjs
+package.json
+tsconfig.json
+postcss.config.js
+.gitignore
+README.md
